@@ -2,6 +2,7 @@
     width: 200px;
     height: 200px;
     background: grey;
+    border-radius: 50%;
 }
 
 .radius{
